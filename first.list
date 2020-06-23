@@ -1,0 +1,2 @@
+deb http://az.archive.ubuntu.com/ubuntu/ focal main restricted
+deb http://az.archive.ubuntu.com/ubuntu/ focal-updates main restricted
